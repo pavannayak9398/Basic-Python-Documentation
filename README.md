@@ -5,6 +5,7 @@ Welcome to the Python Basics repository! This repository contains detailed docum
 # Topics Covered
 
 -Python Variables: Learn about declaring, initializing, and using variables in Python.
+
 -Python Data Types: Explore different data types such as integers, strings, booleans, and complex numbers.
 -Python Operators: Understand arithmetic, logical, comparison, and bitwise operators.
 -Python Data Structures: Master the use of lists, tuples, sets, and dictionaries in Python.
