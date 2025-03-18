@@ -18,6 +18,20 @@ Each topic includes step-by-step examples to help you grasp the concepts effecti
 
 Feel free to explore the notebooks and start your Python journey!
 
+# Topics Covered in Numpy
+
+-Array Creation and Manipulation: Learn to create and modify arrays for efficient data storage and processing.
+
+-Indexing and Slicing Techniques: Understand how to access, slice, and manipulate specific elements or subsets of arrays.
+
+-Array Mathematics and Functions: Perform mathematical operations and leverage built-in functions for array computations.
+
+-Broadcasting: Master the concept of broadcasting to perform operations on arrays of different shapes and sizes.
+
+-Data Transformation: Explore methods to reshape, flatten, and transform arrays for various applications.
+
+This guide has hands-on examples to make complex concepts easy to understand and implement. Start exploring and take your Python data manipulation skills to the next level!
+
 # Topics Covered in Pandas
 
 -DataFrame and Series Creation and Manipulation: Learn how to create, modify, and efficiently work with Pandas' core data structures.
